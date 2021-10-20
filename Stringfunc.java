@@ -22,6 +22,7 @@ public class string3method {
 		//equals() method used to compare content
 		System.out.println(s11.equals(s12));
 		System.out.println(s13.equals(s14));
+		System.out.println(s13.equals(s14));
 	}
 
 }
