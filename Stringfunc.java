@@ -23,6 +23,12 @@ public class string3method {
 		System.out.println(s11.equals(s12));
 		System.out.println(s13.equals(s14));
 		System.out.println(s13.equals(s14));
+		System.out.println(s13.equals(s14));
+		System.out.println(s13.equals(s14));
+		System.out.println(s13.equals(s14));
+		System.out.println(s13.equals(s14));
+		System.out.println(s13.equals(s14));
+		System.out.println(s13.equals(s14));
 	}
 
 }
